@@ -1,0 +1,4 @@
+- 👋 Hi, I’m MANOJ
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning java fullstack
+- 📫 How to reach me mailto: manoj.india777@gmail.com
